@@ -2,3 +2,8 @@
 *.cache
 .vs
 *.json
+/exe/Managed/KbdEmuTest/obj
+/exe/Managed/MouseEmuTest/obj
+/exe/Managed/Installer/obj
+/Dll/Managed/MouseEmuAPI/obj
+/Dll/Managed/KeyboardEmuAPI/obj
